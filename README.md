@@ -42,6 +42,10 @@
 5. Изборно:
     - Отстранете го претходниот распоред (Macedonian - Standard ЉЊЕРТЅ) за да немате дупликат на македонски распоред на тастатурата (ако сте имале македонски внес претходно)
     - Отстранете го претходниот распоред (English (US) - US) за да немате дупликат на англиски распоред на тастатурата (ако сте ја инсталирале и латиничната верзија)
+6. Изборно: Инсталирајте го [language-indicator](https://github.com/yakunins/language-indicator) (препорачано да го преземете преку зеленото копче `Code ➡️ Download ZIP`)
+<picture>
+    <img src="https://github.com/yakunins/language-indicator/blob/master/img/how-it-work.gif" width="507" alt="language indicator for text caret and mouse cursor" />
+</picture>
 
 ## Деинсталирање
 
@@ -52,7 +56,6 @@
 ---
 
 # Keyboard Layout - Macedonian - Standard with AltGr Diacritics for `I/Ì (И/Ѝ)` and `E/È (Е/Ѐ)`
-
 Modification of the default keyboard layout in Microsoft Windows by adding the diacritics `Ѐ` and `Ѝ`
 
 Changes from the original layout:
@@ -95,6 +98,10 @@ Macedonian Latin programmer keyboard (Macedonian (Latin) - Programmers) based on
 5. Optional:
     - Remove the previous layout (Macedonian - Standard ЉЊЕРТЅ) so you don't have a duplicate Macedonian keyboard layout (if you had Macedonian input before)
     - Remove the previous layout (English (US) - US) so you don't have a duplicate English keyboard layout (if you also installed the Latin version)
+6. Optional: Install [language-indicator](https://github.com/yakunins/language-indicator) (recommended to download from `Code ➡️ Download ZIP`)
+<picture>
+    <img src="https://github.com/yakunins/language-indicator/blob/master/img/how-it-work.gif" width="507" alt="language indicator for text caret and mouse cursor" />
+</picture>
 
 ## Uninstalling
 

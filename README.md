@@ -44,7 +44,7 @@
     - Отстранете го претходниот распоред (English (US) - US) за да немате дупликат на англиски распоред на тастатурата (ако сте ја инсталирале и латиничната верзија)
 6. Изборно: Инсталирајте го [language-indicator](https://github.com/yakunins/language-indicator) (препорачано да го преземете преку зеленото копче `Code ➡️ Download ZIP`)
 <picture>
-    <img src="https://github.com/yakunins/language-indicator/blob/master/img/how-it-work.gif" width="507" alt="language indicator for text caret and mouse cursor" />
+    <img src="https://raw.githubusercontent.com/yakunins/language-indicator/refs/heads/master/img/how-it-work.gif" width="507" alt="language indicator for text caret and mouse cursor" />
 </picture>
 
 ## Деинсталирање
@@ -100,7 +100,7 @@ Macedonian Latin programmer keyboard (Macedonian (Latin) - Programmers) based on
     - Remove the previous layout (English (US) - US) so you don't have a duplicate English keyboard layout (if you also installed the Latin version)
 6. Optional: Install [language-indicator](https://github.com/yakunins/language-indicator) (recommended to download from `Code ➡️ Download ZIP`)
 <picture>
-    <img src="https://github.com/yakunins/language-indicator/blob/master/img/how-it-work.gif" width="507" alt="language indicator for text caret and mouse cursor" />
+    <img src="https://raw.githubusercontent.com/yakunins/language-indicator/refs/heads/master/img/how-it-work.gif" width="507" alt="language indicator for text caret and mouse cursor" />
 </picture>
 
 ## Uninstalling
